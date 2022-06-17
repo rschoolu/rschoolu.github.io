@@ -20,12 +20,14 @@
   position: relative;
 }
 .linkright:hover {
- animation: righta 100ms 1; 
+  left: 5px;
+ animation: righta 100ms 1;
 }
 .linkleft {
   left: 0;
   animation: leftaback 100ms 1; 
 }
 .linkleft:hover {
+  left: -5px;
  animation: lefta 100ms 1; 
 }
