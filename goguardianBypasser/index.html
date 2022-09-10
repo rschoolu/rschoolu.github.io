@@ -1,5 +1,23 @@
-<html>
-  <body>
-    <iframe src"https://raw.githubusercontent.com/rschoolu/goguardianWebsite/master/index.html" style="position absolute; top:0; left: 0; width: 99.5%, height: 99.5%;"></iframe>
-  </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>GoGuardian Bypasses</title>
+</head>
+<body>
+    <h1>Welcome to GoGuardian Bypasses!</h1>
+    <a>I know, GoGuardian sucks, so here's some tools to make it so it's a <b>little</b> bit barable.</a><br>
+    <a href="javascript:(()=>{ window.open('sucks.html', '', 'width=300,height=300') })();">Are you interested in learning more things about GoGuardian that <b>suck?</b></a>
+    <br><b>List of Bypasses</b>
+    <a>Most of them work in your bookmarks bar.</a>
+    <ul>
+        <li><a href="browser.html">Half-Working Unblocker (no bookmark)</a></li>
+        <li><a href="javascript:(()=>{ window.onbeforeunload = function(){return 'dont go pls'} })();">Tab Closing Prevention</a></li>
+        <li><a href='javascript:(()=>{document.addEventListener("keydown", (e)=>{ if (e.key == "Alt") { document.querySelector("html").innerHTML = "this website could not load. :("; } })})();'>Kill Switch</a></li>
+    </ul>
+</body>
 </html>
+<script>
+</script>

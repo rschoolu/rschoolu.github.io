@@ -1,0 +1,12 @@
+body {
+    font-family:'Segoe UI';
+    background: black;
+    color: white;
+}
+input {
+    font-family: 'Segoe UI';
+    background: black;
+    border: 1px white solid;
+    color: white;
+    border-radius: 5px;
+}
