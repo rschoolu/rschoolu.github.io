@@ -1,0 +1,28 @@
+.bigtext {
+    font-size: 18px;
+}
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: black;
+    color: white;
+}
+.thumbnail {
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    max-width: 100px;
+    height: 100%;
+    max-height: 100px;
+    background: white;
+    color: black !important;
+    cursor: pointer;
+    border: white 1px solid;
+    border-radius: 5%;
+    transition: max-width ease-out 0.25s, max-height ease-out 0.25s;
+}
+.thumbnail:hover {
+    max-width: 120px;
+    max-height: 120px;
+    outline: rgb(0,220,0) 4px solid;
+}
