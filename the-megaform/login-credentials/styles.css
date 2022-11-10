@@ -1,0 +1,28 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 0;
+    background-color:rgb(76, 223, 174);
+    color: black;
+}
+input.text {
+    border: 1px solid rgb(63, 175, 138);
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.head {
+    background-color: aquamarine;
+    padding: 5 5;
+}
+.main {
+    padding: 5 5;
+}
+a {
+    color: black;
+}
+button.spearmint {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid rgb(63, 175, 138);
+    background-color: aquamarine;
+    cursor: pointer;
+    padding: 5 10;
+}
