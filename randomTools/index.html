@@ -1,1 +1,25 @@
-
+<html>
+  <body>
+    <a href="stuff.html">Back</a><br>
+    <a>Random Tools (Bookmarklets)</a><br>
+    <div id="crop">
+    
+    </div>
+  </body>
+</html>
+<script>
+  let tools = [
+    {
+    name: "Inject JS Code",
+    code: `javascript:(function(){ /* We need to inject a script src, or a javascript code into the document. */ let ifDose = confirm('Script source (Cancel) or code itself? (OK)%27); if (!ifDose) { let scriptsrc = prompt("Script src"); const script = document.createElement(%27script%27); script.src = scriptsrc; script.defer = true; document.head.appendChild(script); return; }; let scripthtml = prompt("Javascript code"); const script2 = document.createElement(%27script%27); script2.innerHTML = scripthtml; script2.defer = true; document.head.appendChild(script2); })();`
+    }
+  ]
+  function runThroughAndAppend() {
+    for (const i for tools) {
+     let a = document.createElement('a');
+     a.textContent = i["name"];
+     a.href = i["code"];
+      document.body.querySelector('#crop').appendChild(a);
+    }
+  }
+</script>
