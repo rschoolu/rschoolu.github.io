@@ -4,3 +4,6 @@
 [submodule "goguardianWebsite"]
 	path = goguardianWebsite
 	url = https://github.com/rschoolu/goguardianWebsite
+[submodule "Virtual-Guess-Who-Board"]
+	path = Virtual-Guess-Who-Board
+	url = https://github.com/rschoolu/Virtual-Guess-Who-Board
