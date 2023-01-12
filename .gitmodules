@@ -1,6 +1,3 @@
-[submodule "emerald-clicker"]
-	path = emerald-clicker
-	url = https://github.com/rschoolu/emerald-clicker
 [submodule "goguardianWebsite"]
 	path = goguardianWebsite
 	url = https://github.com/rschoolu/goguardianWebsite
