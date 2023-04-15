@@ -4,6 +4,3 @@
 [submodule "Virtual-Guess-Who-Board"]
 	path = Virtual-Guess-Who-Board
 	url = https://github.com/rschoolu/Virtual-Guess-Who-Board
-[submodule "checkers"]
-	path = checkers
-	url = https://github.com/rschoolu/checkers
