@@ -1,0 +1,25 @@
+{
+	"position": [
+		-80,
+		20
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1,
+	"image": "spikeJake_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk_neutral",
+			"idle_offsets": [
+				0,
+				-12
+			],
+			"loop_name": "talk_neutral",
+			"idle_name": "dialogue_idle"
+		}
+	]
+}

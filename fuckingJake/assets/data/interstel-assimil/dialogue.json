@@ -1,0 +1,220 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "note: before the song starts, the name was too long for me to fit inside fnf. so it has been shortended. the real song name is...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jake"
+		},
+		{
+			"expression": "talk",
+			"text": "Interstellar-Assimilation",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jake"
+		},
+		{
+			"expression": "talk",
+			"text": "bop skibidi dop dai (I beat you \"shjake\")",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm Jake. Not \"shjake\" or \"protoJake.\"",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.0499999999999999,
+			"portrait": "shjake"
+		},
+		{
+			"expression": "confused",
+			"text": "Yeah... right...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "bop skai dip dee (These songs are really straining my throat.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ha! You just have a weak throat.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "shjake"
+		},
+		{
+			"expression": "confused",
+			"text": "bop skai dip do (Yeah, maybe...)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I like this conversation.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "p.s. before i had gf bouncing up and down for talking on accident!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Pardon?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.3,
+			"portrait": "shjake"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yeah... can you elaborate???"
+		},
+		{
+			"expression": "talk",
+			"text": "before i had gf bouncing up and down...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "on accident.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.25,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Huh...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "I don't get it.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "shjake"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Like... The Mod... Originally made in Psych Engine 0.4????"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "They didn't have GF dialogue sprites."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now they do!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "In Psych Engine 0.7.1h!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the **** is a \"Psych Engine?\""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "shjake",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Is it like an car engine that Psychs you? Like doesn't start always?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What about a \"Mod\" anyway?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "shjake",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Is it like a Discord Mod?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "shjake",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That wastes their lives?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Maybe... just let him be, he'll snap out of it."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ugh..."
+		}
+	]
+}

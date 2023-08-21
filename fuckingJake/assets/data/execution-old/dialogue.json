@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "A    G    A    I    N    ?    !    ?    !    !",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "jake"
+		},
+		{
+			"expression": "excited",
+			"text": "beep boop (I don't go easy on anyone!)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Can confirm!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "jake",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "ACH!!!!!!!!"
+		},
+		{
+			"expression": "talk",
+			"text": "This next song will be so hard you will DIE. Literally. Any mortal soul will DIE. Which includes the both of-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.135,
+			"portrait": "jake"
+		},
+		{
+			"expression": "demon",
+			"text": "I'm actually a demon. I'm not a mortal, so that only includes Boyfriend.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay, fine. That includes only ONE of you, which is just the beep-boop guy.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jake"
+		},
+		{
+			"expression": "talk",
+			"text": "His name's actually Boyfriend. You should have derived this from my previous sentence. As I have stated that \"That only includes Boyfriend\" which implies that the \"beep-boop guy\" is actually Boyfriend. So get it right next time \"Jake\"",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "SHUT UP!!!!!!!!! PLEASE OH MY GOODNESS THE NERD EMOJI IS BURNED INTO MY RED EYES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jake"
+		},
+		{
+			"expression": "talk",
+			"text": "beep boop dai skdoop bai ooo ahh (Please don't talk to my girlfriend that way. It makes me sad.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay, \"Boyfriend.\"",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jake"
+		}
+	]
+}

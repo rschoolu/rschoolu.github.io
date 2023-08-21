@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "HOW THE HECK DID YOU BEAT ME?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "jake"
+		},
+		{
+			"expression": "excited",
+			"text": "skai dip beep bop (Guess I'm better at rapping.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Good reason I guess...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "jake"
+		},
+		{
+			"expression": "excited",
+			"text": "beep skidip bop skai dop skibidi (I had a fun time singing with you!)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I did too! But why not stay for another?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jake"
+		},
+		{
+			"expression": "talk",
+			"text": "Why not?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk_neutral",
+			"text": "A    G    A    I    N    ?    !    ?    !    !",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "jake"
+		},
+		{
+			"expression": "excited",
+			"text": "beep boop (I don't go easy on anyone!)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Can confirm!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "jake",
+			"boxState": "angry",
+			"expression": "talk_neutral",
+			"text": "ACH!!!!!!!!"
+		},
+		{
+			"expression": "talk_neutral",
+			"text": "This next song will be so hard you will DIE. Literally. Any mortal soul will DIE. Which includes the both of-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.135,
+			"portrait": "jake"
+		}
+	]
+}

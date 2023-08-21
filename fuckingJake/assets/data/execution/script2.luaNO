@@ -1,0 +1,11 @@
+local allowEnd = false;
+
+function onEndSong()
+	if not allowEnd and isStoryMode then
+		--setProperty('isCutscene', true);
+		startDialogue('post-dialogue', 'dialogue_tense');
+		allowEnd = true;
+		return Function_Stop;
+	end
+	return Function_Continue;
+end

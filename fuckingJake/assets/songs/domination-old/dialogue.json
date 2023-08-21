@@ -1,0 +1,11 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "i hope this works, and if you see this,\\ngood job.!>/>?!>!?>?!>!>?!>!>!?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

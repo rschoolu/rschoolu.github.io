@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "spikeJake",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This is getting me upset."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spikeJake",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think I'd give a song to hint at what's coming your way."
+		}
+	]
+}

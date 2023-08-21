@@ -1,0 +1,44 @@
+{
+	"storyName": "JAKE NEW WEEK LOSERS",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"domination",
+			"realJake",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"phobic",
+			"realJake",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"execution",
+			"realJake",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekName": "Week J"
+}

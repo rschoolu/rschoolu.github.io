@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "LOOK WHAT YOU HAVE DONE!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "shjake"
+		},
+		{
+			"expression": "talk",
+			"text": "bop skai (Is that an icicle?)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah, is that an icicle?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "No, you idiots.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "shjake"
+		},
+		{
+			"expression": "talk",
+			"text": "bop skai (We're not that dumb.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm gonna kill you \"Boyfriend.\"",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "shjake"
+		},
+		{
+			"expression": "talk",
+			"text": "Mark my words.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "shjake"
+		},
+		{
+			"expression": "talk",
+			"text": "If you kill him...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.25,
+			"portrait": "gf"
+		},
+		{
+			"expression": "demon",
+			"text": "You will face the wrath of the Dearest family.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.5,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "You're funny.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "shjake"
+		},
+		{
+			"expression": "talk",
+			"text": "I doubt that anything will happen to me.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "shjake"
+		},
+		{
+			"expression": "confused",
+			"text": "bop skai beep skibidi bop skai bip (Please start the song for God's sake!)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

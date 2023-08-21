@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spikeJake",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "While you were gone, a spike from my empire had fallen on my head. I absorbed it and gained some new powers."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop skai dip skidip rop (I guess this is how you \"prepared\" for the rematch?)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spikeJake",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, it's how I prepared. But you should prepare to be destroyed."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bop skai dip bop skee (That wasn't that funny...)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spikeJake",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That doesn't matter, comedic effect is not my priority!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Stop bickering please, let's start the song!"
+		}
+	]
+}
