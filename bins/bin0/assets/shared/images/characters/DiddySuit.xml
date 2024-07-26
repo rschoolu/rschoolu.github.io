@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DiddySuit.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="xevious bounce0000" x="0" y="0" width="263" height="821" frameX="0" frameY="-35" frameWidth="263" frameHeight="858"/>
+	<SubTexture name="xevious bounce0001" x="267" y="0" width="259" height="829" frameX="-2" frameY="-27" frameWidth="263" frameHeight="858"/>
+	<SubTexture name="xevious bounce0002" x="530" y="0" width="257" height="837" frameX="-3" frameY="-20" frameWidth="263" frameHeight="858"/>
+	<SubTexture name="xevious bounce0003" x="791" y="0" width="254" height="842" frameX="-4" frameY="-15" frameWidth="263" frameHeight="858"/>
+	<SubTexture name="xevious bounce0004" x="1049" y="0" width="252" height="847" frameX="-5" frameY="-10" frameWidth="263" frameHeight="858"/>
+	<SubTexture name="xevious bounce0005" x="1305" y="0" width="251" height="851" frameX="-6" frameY="-6" frameWidth="263" frameHeight="858"/>
+	<SubTexture name="xevious bounce0006" x="1560" y="0" width="251" height="854" frameX="-7" frameY="-3" frameWidth="263" frameHeight="858"/>
+	<SubTexture name="xevious bounce0007" x="1815" y="0" width="251" height="857" frameX="-7" frameY="-1" frameWidth="263" frameHeight="858"/>
+	<SubTexture name="xevious bounce0008" x="2070" y="0" width="251" height="858" frameX="-7" frameY="0" frameWidth="263" frameHeight="858"/>
+	<SubTexture name="xevious bounce0009" x="2325" y="0" width="251" height="858" frameX="-7" frameY="0" frameWidth="263" frameHeight="858"/>
+	<SubTexture name="xevious down0000" x="2580" y="0" width="256" height="838" frameX="0" frameY="-19" frameWidth="256" frameHeight="858"/>
+	<SubTexture name="xevious down0001" x="2840" y="0" width="255" height="844" frameX="-1" frameY="-13" frameWidth="256" frameHeight="858"/>
+	<SubTexture name="xevious down0002" x="3099" y="0" width="253" height="849" frameX="-2" frameY="-8" frameWidth="256" frameHeight="858"/>
+	<SubTexture name="xevious down0003" x="3356" y="0" width="252" height="854" frameX="-3" frameY="-4" frameWidth="256" frameHeight="858"/>
+	<SubTexture name="xevious down0004" x="3612" y="0" width="251" height="856" frameX="-3" frameY="-2" frameWidth="256" frameHeight="858"/>
+	<SubTexture name="xevious down0005" x="0" y="862" width="251" height="858" frameX="-3" frameY="0" frameWidth="256" frameHeight="858"/>
+	<SubTexture name="xevious down0006" x="255" y="862" width="251" height="858" frameX="-3" frameY="0" frameWidth="256" frameHeight="858"/>
+	<SubTexture name="xevious left0000" x="510" y="862" width="265" height="854" frameX="0" frameY="-4" frameWidth="296" frameHeight="858"/>
+	<SubTexture name="xevious left0001" x="779" y="862" width="256" height="856" frameX="-17" frameY="-2" frameWidth="296" frameHeight="858"/>
+	<SubTexture name="xevious left0002" x="1039" y="862" width="254" height="857" frameX="-26" frameY="-1" frameWidth="296" frameHeight="858"/>
+	<SubTexture name="xevious left0003" x="1297" y="862" width="253" height="857" frameX="-33" frameY="-1" frameWidth="296" frameHeight="858"/>
+	<SubTexture name="xevious left0004" x="1554" y="862" width="252" height="858" frameX="-38" frameY="0" frameWidth="296" frameHeight="858"/>
+	<SubTexture name="xevious left0005" x="1810" y="862" width="252" height="858" frameX="-42" frameY="0" frameWidth="296" frameHeight="858"/>
+	<SubTexture name="xevious left0006" x="2066" y="862" width="251" height="858" frameX="-45" frameY="0" frameWidth="296" frameHeight="858"/>
+	<SubTexture name="xevious left0007" x="2321" y="862" width="251" height="858" frameX="-45" frameY="0" frameWidth="296" frameHeight="858"/>
+	<SubTexture name="xevious right0000" x="2576" y="862" width="265" height="855" frameX="-15" frameY="-3" frameWidth="280" frameHeight="858"/>
+	<SubTexture name="xevious right0001" x="2845" y="862" width="256" height="856" frameX="-15" frameY="-2" frameWidth="280" frameHeight="858"/>
+	<SubTexture name="xevious right0002" x="3105" y="862" width="250" height="857" frameX="-15" frameY="-1" frameWidth="280" frameHeight="858"/>
+	<SubTexture name="xevious right0003" x="3359" y="862" width="249" height="857" frameX="-11" frameY="-1" frameWidth="280" frameHeight="858"/>
+	<SubTexture name="xevious right0004" x="3612" y="862" width="250" height="858" frameX="-6" frameY="0" frameWidth="280" frameHeight="858"/>
+	<SubTexture name="xevious right0005" x="0" y="1724" width="251" height="858" frameX="-2" frameY="0" frameWidth="280" frameHeight="858"/>
+	<SubTexture name="xevious right0006" x="255" y="1724" width="252" height="858" frameX="0" frameY="0" frameWidth="280" frameHeight="858"/>
+	<SubTexture name="xevious right0007" x="511" y="1724" width="251" height="858" frameX="0" frameY="0" frameWidth="280" frameHeight="858"/>
+	<SubTexture name="xevious up0000" x="766" y="1724" width="253" height="871"/>
+	<SubTexture name="xevious up0001" x="1023" y="1724" width="253" height="868" frameX="0" frameY="-3" frameWidth="253" frameHeight="871"/>
+	<SubTexture name="xevious up0002" x="1280" y="1724" width="252" height="866" frameX="-1" frameY="-5" frameWidth="253" frameHeight="871"/>
+	<SubTexture name="xevious up0003" x="1536" y="1724" width="252" height="864" frameX="-1" frameY="-7" frameWidth="253" frameHeight="871"/>
+	<SubTexture name="xevious up0004" x="1792" y="1724" width="251" height="862" frameX="-2" frameY="-9" frameWidth="253" frameHeight="871"/>
+	<SubTexture name="xevious up0005" x="2047" y="1724" width="251" height="860" frameX="-2" frameY="-11" frameWidth="253" frameHeight="871"/>
+	<SubTexture name="xevious up0006" x="2302" y="1724" width="251" height="858" frameX="-2" frameY="-12" frameWidth="253" frameHeight="871"/>
+	<SubTexture name="xevious up0007" x="2557" y="1724" width="251" height="858" frameX="-2" frameY="-12" frameWidth="253" frameHeight="871"/>
+	<SubTexture name="xevious up0008" x="2812" y="1724" width="251" height="858" frameX="-2" frameY="-12" frameWidth="253" frameHeight="871"/>
+</TextureAtlas>

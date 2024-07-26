@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-111,
+				78
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bruce left"
+		},
+		{
+			"offsets": [
+				-140,
+				78
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bruce down"
+		},
+		{
+			"offsets": [
+				-137,
+				82
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bruce up"
+		},
+		{
+			"offsets": [
+				-138,
+				79
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bruce right"
+		},
+		{
+			"offsets": [
+				-138,
+				78
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Bruce bounce"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/OmegaVariant",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "bruce",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1,
+	"_editor_isPlayer": true
+}

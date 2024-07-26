@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"layne vs bruce",
+			"layne",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"december 23rd",
+			"diddy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "gc mod",
+	"weekName": "gc mod",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
