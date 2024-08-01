@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SamsUndertale.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sam bounce eye0000" x="0" y="0" width="359" height="633" frameX="0" frameY="-20" frameWidth="359" frameHeight="653"/>
+	<SubTexture name="sam bounce eye0001" x="363" y="0" width="356" height="638" frameX="-2" frameY="-15" frameWidth="359" frameHeight="653"/>
+	<SubTexture name="sam bounce eye0002" x="723" y="0" width="354" height="643" frameX="-3" frameY="-10" frameWidth="359" frameHeight="653"/>
+	<SubTexture name="sam bounce eye0003" x="1081" y="0" width="352" height="647" frameX="-4" frameY="-6" frameWidth="359" frameHeight="653"/>
+	<SubTexture name="sam bounce eye0004" x="1437" y="0" width="351" height="650" frameX="-4" frameY="-3" frameWidth="359" frameHeight="653"/>
+	<SubTexture name="sam bounce eye0005" x="1792" y="0" width="350" height="652" frameX="-5" frameY="-1" frameWidth="359" frameHeight="653"/>
+	<SubTexture name="sam bounce eye0006" x="2146" y="0" width="349" height="653" frameX="-5" frameY="0" frameWidth="359" frameHeight="653"/>
+	<SubTexture name="sam bounce eye0007" x="2499" y="0" width="349" height="653" frameX="-5" frameY="0" frameWidth="359" frameHeight="653"/>
+	<SubTexture name="sam down eye0000" x="2852" y="0" width="363" height="635" frameX="0" frameY="-18" frameWidth="363" frameHeight="653"/>
+	<SubTexture name="sam down eye0001" x="3219" y="0" width="359" height="640" frameX="-2" frameY="-13" frameWidth="363" frameHeight="653"/>
+	<SubTexture name="sam down eye0002" x="3582" y="0" width="356" height="644" frameX="-4" frameY="-9" frameWidth="363" frameHeight="653"/>
+	<SubTexture name="sam down eye0003" x="0" y="657" width="353" height="647" frameX="-5" frameY="-6" frameWidth="363" frameHeight="653"/>
+	<SubTexture name="sam down eye0004" x="357" y="657" width="351" height="650" frameX="-6" frameY="-3" frameWidth="363" frameHeight="653"/>
+	<SubTexture name="sam down eye0005" x="712" y="657" width="350" height="652" frameX="-7" frameY="-1" frameWidth="363" frameHeight="653"/>
+	<SubTexture name="sam down eye0006" x="1066" y="657" width="349" height="653" frameX="-7" frameY="0" frameWidth="363" frameHeight="653"/>
+	<SubTexture name="sam down eye0007" x="1419" y="657" width="349" height="653" frameX="-7" frameY="0" frameWidth="363" frameHeight="653"/>
+	<SubTexture name="sam left eye0000" x="1772" y="657" width="363" height="651" frameX="0" frameY="-2" frameWidth="385" frameHeight="653"/>
+	<SubTexture name="sam left eye0001" x="2139" y="657" width="366" height="652" frameX="-3" frameY="-1" frameWidth="385" frameHeight="653"/>
+	<SubTexture name="sam left eye0002" x="2509" y="657" width="361" height="652" frameX="-13" frameY="-1" frameWidth="385" frameHeight="653"/>
+	<SubTexture name="sam left eye0003" x="2874" y="657" width="356" height="653" frameX="-22" frameY="0" frameWidth="385" frameHeight="653"/>
+	<SubTexture name="sam left eye0004" x="3234" y="657" width="353" height="653" frameX="-28" frameY="0" frameWidth="385" frameHeight="653"/>
+	<SubTexture name="sam left eye0005" x="3591" y="657" width="350" height="653" frameX="-33" frameY="0" frameWidth="385" frameHeight="653"/>
+	<SubTexture name="sam left eye0006" x="0" y="1314" width="350" height="653" frameX="-35" frameY="0" frameWidth="385" frameHeight="653"/>
+	<SubTexture name="sam left eye0007" x="354" y="1314" width="349" height="653" frameX="-36" frameY="0" frameWidth="385" frameHeight="653"/>
+	<SubTexture name="sam right eye0000" x="707" y="1314" width="350" height="651" frameX="-25" frameY="-2" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="sam right eye0001" x="1061" y="1314" width="350" height="652" frameX="-18" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="sam right eye0002" x="1415" y="1314" width="349" height="653" frameX="-13" frameY="0" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="sam right eye0003" x="1768" y="1314" width="350" height="653" frameX="-8" frameY="0" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="sam right eye0004" x="2122" y="1314" width="350" height="653" frameX="-4" frameY="0" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="sam right eye0005" x="2476" y="1314" width="351" height="653" frameX="-2" frameY="0" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="sam right eye0006" x="2831" y="1314" width="350" height="653" frameX="0" frameY="0" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="sam right eye0007" x="3185" y="1314" width="349" height="653" frameX="0" frameY="0" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="sam up eye0000" x="3538" y="1314" width="348" height="654" frameX="0" frameY="0" frameWidth="351" frameHeight="654"/>
+	<SubTexture name="sam up eye0001" x="0" y="1972" width="348" height="654" frameX="-1" frameY="0" frameWidth="351" frameHeight="654"/>
+	<SubTexture name="sam up eye0002" x="352" y="1972" width="349" height="653" frameX="-1" frameY="-1" frameWidth="351" frameHeight="654"/>
+	<SubTexture name="sam up eye0003" x="705" y="1972" width="348" height="653" frameX="-2" frameY="-1" frameWidth="351" frameHeight="654"/>
+	<SubTexture name="sam up eye0004" x="1057" y="1972" width="349" height="653" frameX="-2" frameY="-1" frameWidth="351" frameHeight="654"/>
+	<SubTexture name="sam up eye0005" x="1410" y="1972" width="349" height="653" frameX="-2" frameY="-1" frameWidth="351" frameHeight="654"/>
+	<SubTexture name="sam up eye0006" x="1763" y="1972" width="349" height="653" frameX="-2" frameY="-1" frameWidth="351" frameHeight="654"/>
+	<SubTexture name="sam up eye0007" x="2116" y="1972" width="349" height="653" frameX="-2" frameY="-1" frameWidth="351" frameHeight="654"/>
+</TextureAtlas>
