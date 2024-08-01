@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OmegaVariant.png">
+	<!-- Created with Adobe Animate version 24.0.4.28 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bruce bounce0000" x="0" y="0" width="179" height="476" frameX="0" frameY="-18" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce bounce0001" x="179" y="0" width="171" height="481" frameX="-4" frameY="-13" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce bounce0002" x="350" y="0" width="166" height="485" frameX="-6" frameY="-9" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce bounce0003" x="516" y="0" width="164" height="488" frameX="-5" frameY="-6" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce bounce0004" x="680" y="0" width="163" height="491" frameX="-4" frameY="-3" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce bounce0005" x="843" y="0" width="161" height="493" frameX="-4" frameY="-1" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce bounce0006" x="1004" y="0" width="160" height="494" frameX="-4" frameY="0" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce bounce0007" x="1164" y="0" width="160" height="494" frameX="-4" frameY="0" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce down0000" x="1324" y="0" width="179" height="479" frameX="0" frameY="-15" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce down0001" x="1503" y="0" width="174" height="483" frameX="-1" frameY="-11" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce down0002" x="1677" y="0" width="170" height="486" frameX="-1" frameY="-8" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce down0003" x="1847" y="0" width="165" height="489" frameX="-2" frameY="-5" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce down0004" x="0" y="494" width="163" height="492" frameX="-2" frameY="-2" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce down0005" x="163" y="494" width="161" height="493" frameX="-2" frameY="-1" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce down0006" x="324" y="494" width="160" height="494" frameX="-2" frameY="0" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce down0007" x="484" y="494" width="160" height="494" frameX="-2" frameY="0" frameWidth="179" frameHeight="494"/>
+	<SubTexture name="Bruce left0000" x="644" y="494" width="195" height="490" frameX="0" frameY="-4" frameWidth="195" frameHeight="494"/>
+	<SubTexture name="Bruce left0001" x="839" y="494" width="185" height="491" frameX="-9" frameY="-3" frameWidth="195" frameHeight="494"/>
+	<SubTexture name="Bruce left0002" x="1024" y="494" width="177" height="492" frameX="-16" frameY="-2" frameWidth="195" frameHeight="494"/>
+	<SubTexture name="Bruce left0003" x="1201" y="494" width="169" height="493" frameX="-23" frameY="-1" frameWidth="195" frameHeight="494"/>
+	<SubTexture name="Bruce left0004" x="1370" y="494" width="165" height="493" frameX="-26" frameY="-1" frameWidth="195" frameHeight="494"/>
+	<SubTexture name="Bruce left0005" x="1535" y="494" width="163" height="494" frameX="-27" frameY="0" frameWidth="195" frameHeight="494"/>
+	<SubTexture name="Bruce left0006" x="1698" y="494" width="161" height="494" frameX="-28" frameY="0" frameWidth="195" frameHeight="494"/>
+	<SubTexture name="Bruce left0007" x="1859" y="494" width="160" height="494" frameX="-29" frameY="0" frameWidth="195" frameHeight="494"/>
+	<SubTexture name="Bruce left0008" x="0" y="988" width="160" height="494" frameX="-29" frameY="0" frameWidth="195" frameHeight="494"/>
+	<SubTexture name="Bruce left0009" x="160" y="988" width="160" height="494" frameX="-29" frameY="0" frameWidth="195" frameHeight="494"/>
+	<SubTexture name="Bruce right0000" x="320" y="988" width="198" height="495"/>
+	<SubTexture name="Bruce right0001" x="518" y="988" width="186" height="494" frameX="-3" frameY="-1" frameWidth="198" frameHeight="495"/>
+	<SubTexture name="Bruce right0002" x="704" y="988" width="176" height="494" frameX="-6" frameY="-1" frameWidth="198" frameHeight="495"/>
+	<SubTexture name="Bruce right0003" x="880" y="988" width="170" height="494" frameX="-6" frameY="-1" frameWidth="198" frameHeight="495"/>
+	<SubTexture name="Bruce right0004" x="1050" y="988" width="165" height="494" frameX="-5" frameY="-1" frameWidth="198" frameHeight="495"/>
+	<SubTexture name="Bruce right0005" x="1215" y="988" width="162" height="494" frameX="-4" frameY="-1" frameWidth="198" frameHeight="495"/>
+	<SubTexture name="Bruce right0006" x="1377" y="988" width="160" height="494" frameX="-3" frameY="-1" frameWidth="198" frameHeight="495"/>
+	<SubTexture name="Bruce right0007" x="1537" y="988" width="160" height="494" frameX="-3" frameY="-1" frameWidth="198" frameHeight="495"/>
+	<SubTexture name="Bruce up0000" x="1697" y="988" width="172" height="498" frameX="0" frameY="0" frameWidth="178" frameHeight="498"/>
+	<SubTexture name="Bruce up0001" x="1869" y="988" width="170" height="497" frameX="-4" frameY="-1" frameWidth="178" frameHeight="498"/>
+	<SubTexture name="Bruce up0002" x="0" y="1486" width="173" height="495" frameX="-4" frameY="-3" frameWidth="178" frameHeight="498"/>
+	<SubTexture name="Bruce up0003" x="173" y="1486" width="174" height="495" frameX="-4" frameY="-3" frameWidth="178" frameHeight="498"/>
+	<SubTexture name="Bruce up0004" x="347" y="1486" width="171" height="494" frameX="-4" frameY="-4" frameWidth="178" frameHeight="498"/>
+	<SubTexture name="Bruce up0005" x="518" y="1486" width="165" height="494" frameX="-4" frameY="-4" frameWidth="178" frameHeight="498"/>
+	<SubTexture name="Bruce up0006" x="683" y="1486" width="161" height="494" frameX="-4" frameY="-4" frameWidth="178" frameHeight="498"/>
+	<SubTexture name="Bruce up0007" x="844" y="1486" width="160" height="494" frameX="-4" frameY="-4" frameWidth="178" frameHeight="498"/>
+</TextureAtlas>
