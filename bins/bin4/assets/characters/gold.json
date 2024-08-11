@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Silver Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				619,
+				126
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Lost Silver Left finished",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-348
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Silver Down Full",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				181
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Full Silver Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				91
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Silver Right Finished",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lost Silver Assets Gold",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-150,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
