@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"geometry",
+			"none",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "farmal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "gc mod",
+	"weekName": "gc mod",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
